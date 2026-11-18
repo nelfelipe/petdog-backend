@@ -1,0 +1,8 @@
+# Librerías (se instalan con npm install)
+node_modules/
+
+# Datos privados (contraseña de la base de datos)
+.env
+
+# Base de datos (no se sube)
+database/
